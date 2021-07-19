@@ -33,6 +33,7 @@
     <ProjectGuid>{87cb92e3-c9c3-47c0-86a5-936d22e7588f}</ProjectGuid>
     <RootNamespace>TSL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TSL_VS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
